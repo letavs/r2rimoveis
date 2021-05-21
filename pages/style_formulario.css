@@ -1,0 +1,9 @@
+.titulo-site-contrucao2 {
+    background-image: url('assets/contrucao2.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
